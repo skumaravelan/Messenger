@@ -5,7 +5,7 @@ Dependency : Used Maven to manage Dependency.
 - Have used Apache commons and String Util for URL manipulation and String maninpulation. 
 
 - Need more logging for production scale. 
-- Caching to reducing the parsing of already parsed pattern. 
+- Caching to reduce the parsing for the already parsed pattern. 
 -Error handling and String validation can be improved. 
 - Use Hibernate Validation for Input validation 
 
